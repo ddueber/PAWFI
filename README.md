@@ -10,4 +10,4 @@ Removes cases from the data set until the chi-squared test of model fit is  non-
   
 List of people with largest change in chi-squared changes drastically from step to step, so I have not been able to come up with any time-saving tricks like only checking a small number of cases at each step 
        
-Finally, please note that there is no guarantee that the solution found by this greedy algorithm is optimal. The PAWFI computed herein is only a lower #bound for the true PAWFI    
+Finally, please note that there is no guarantee that the solution found by this greedy algorithm is optimal. The PAWFI computed herein is only an upper bound for the true PAWFI    
